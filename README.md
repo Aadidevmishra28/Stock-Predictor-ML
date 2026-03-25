@@ -18,7 +18,7 @@ Model: Random Forest Classifier (Ensemble Learning)
 
 📊 Key Results
 
-Baseline Accuracy: 56.14%
+Baseline Accuracy: 56.41%
 
 High-Confidence Win Rate: 64% (using a 0.7 probability threshold)
 
